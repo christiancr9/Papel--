@@ -1,5 +1,5 @@
 
-# Papel++ 🖨️📦  
+# Papel++ 📦  
 
 Sistema de gestión de inventario y ventas para pequeños negocios, desarrollado en C++ con Programación Orientada a Objetos.  
 
