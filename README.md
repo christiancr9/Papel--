@@ -8,7 +8,7 @@ Sistema de gestión de inventario y ventas para pequeños negocios, desarrollado
 - [ ] Módulo Ventas (en desarrollo).  
 - [ ] Análisis de datos (próximamente).  
 
-## 🛠️ Tecnologías  
+## 🛠 Tecnologías  
 - C++17  
 - POO (Clases, herencia, polimorfismo)  
 - Git/GitHub  
@@ -16,4 +16,4 @@ Sistema de gestión de inventario y ventas para pequeños negocios, desarrollado
 ## 📌 Cómo contribuir  
 1. Clona el repositorio:  
    ```bash  
-   git clone https://github.com/TuUsuario/Papel++.git  
+   git clone https://github.com/christiancr9/Papel++.git  
